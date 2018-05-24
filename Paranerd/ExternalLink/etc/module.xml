@@ -1,0 +1,8 @@
+<config>
+	<module name="Paranerd_ExternalLink" schema_version="1.38" setup_version="1.38">
+		<sequence>
+			<module name="Magento_Customer"/>
+			<module name="Magento_Backend"/>
+		</sequence>
+	</module>
+</config>
